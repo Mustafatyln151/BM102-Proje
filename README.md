@@ -42,3 +42,12 @@ SqlConnection baglanti = new SqlConnection("Data Source=DESKTOP-6H0UUBO\\SQLEXPR
 Kendi server adınıza buradan ulaşabilirsiniz.
 
 
+Ulaşım Numaralarımız:
+Mustafa Taylan : 0555 004 23 40   mustafa45taylan@gmail.com
+Yunus Gedik : 0552 557 8938   yunusgedik0967@gmail.com
+Hüseyin Demirsöz : 0533 570 5061  huseyindemirsoz3@gmail.com
+Kıvanç Avcı: 0530 214 7580   22118080038@gazi.edu.tr
+Kerem Kapısız: 0552 343 8867   kapisizkerem04@gmail.com
+
+
+
